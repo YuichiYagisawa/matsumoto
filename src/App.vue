@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">kazumasa</router-link> |
-      <router-link to="/about">松本かづまさ</router-link>
+      <router-link to="/">kazumasa</router-link>
+      <router-link to="/about">HelloWorld</router-link>
     </div>
     <router-view/>
   </div>
