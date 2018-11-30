@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">kazumasa</router-link> |
-      <router-link to="/about">松本</router-link>
+      <router-link to="/about">mao</router-link>
     </div>
     <router-view/>
   </div>
